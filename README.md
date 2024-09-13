@@ -1,6 +1,5 @@
 # NewsApp
 An Android app built with Jetpack Compose and the latest Android libraries.
-To learn how to build this app from scratch you can watch this  playlist on YouTube: https://www.youtube.com/playlist?list=PLzZEuVaFb9Exi-pc8qtHBrrLg8bUn-TP6
 
 # Preview 
 Will post woon
